@@ -25,6 +25,6 @@ entity CV_SALES {
 @cds.persistence.calcview
 entity CV_SESSION_INFO {
   key ITEM     : String(5000);
-      VALUE    : String(5000);
+      VALUE    : String(6000);
 }
 
